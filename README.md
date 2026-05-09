@@ -1,20 +1,21 @@
-# Interactive Security Guides
+# Interactive Security Guides <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/e03e0304-f006-42f9-8b4f-86b99edfd895" />
+
 
 Interactive, visual security guides and demos covering architectures, concepts, and emerging trends.
 
-## What you’ll find here
+## What you’ll find here 🔍
 - **Architecture Guides**: reference architectures and design patterns with diagrams and walkthroughs
 - **Interactive Demos**: click-through demos and small lab environments
 - **Concepts**: concise explainers for security fundamentals and modern approaches
 - **Future Trends**: forward-looking guidance (with clear “what’s known vs. what’s emerging”)
 
-## Philosophy
+## Philosophy 📚
 - **Practical**: focus on real-world decisions and tradeoffs
 - **Visual**: diagrams first, text second
 - **Vendor-neutral**: patterns and principles over product pitches
 
-## Disclosure
+## Disclosure 🧐
 This is **independent educational content**. It is **not affiliated with or endorsed by any employer or vendor**.
 
-## License
+## License 🪪
 Unless otherwise noted, content is provided under the license specified in each repository.
