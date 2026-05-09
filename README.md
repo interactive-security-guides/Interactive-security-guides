@@ -8,10 +8,6 @@ Interactive, visual security guides and demos covering architectures, concepts, 
 - **Concepts**: concise explainers for security fundamentals and modern approaches
 - **Future Trends**: forward-looking guidance (with clear “what’s known vs. what’s emerging”)
 
-## Start here
-- If you want a guided path, begin with **Start Here** → learning paths and recommended sequences.
-- Prefer hands-on? Jump straight to **Interactive Demos**.
-
 ## Philosophy
 - **Practical**: focus on real-world decisions and tradeoffs
 - **Visual**: diagrams first, text second
