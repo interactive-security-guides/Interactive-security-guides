@@ -1,4 +1,4 @@
-## Interactive Security Guides <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/73d522ec-a1a7-402b-bee8-9d289312249e" />
+# Interactive Security Guides 🫈
 
 
 Interactive, visual security guides and demos covering architectures, concepts, and emerging trends.
