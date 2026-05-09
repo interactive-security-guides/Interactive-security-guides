@@ -1,16 +1,24 @@
-## Hi there 👋
+# Interactive Security Guides
 
-<!--
-**interactive-security-guides/Interactive-security-guides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interactive, visual security guides and demos covering architectures, concepts, and emerging trends.
 
-Here are some ideas to get you started:
+## What you’ll find here
+- **Architecture Guides**: reference architectures and design patterns with diagrams and walkthroughs
+- **Interactive Demos**: click-through demos and small lab environments
+- **Concepts**: concise explainers for security fundamentals and modern approaches
+- **Future Trends**: forward-looking guidance (with clear “what’s known vs. what’s emerging”)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Start here
+- If you want a guided path, begin with **Start Here** → learning paths and recommended sequences.
+- Prefer hands-on? Jump straight to **Interactive Demos**.
+
+## Philosophy
+- **Practical**: focus on real-world decisions and tradeoffs
+- **Visual**: diagrams first, text second
+- **Vendor-neutral**: patterns and principles over product pitches
+
+## Disclosure
+This is **independent educational content**. It is **not affiliated with or endorsed by any employer or vendor**.
+
+## License
+Unless otherwise noted, content is provided under the license specified in each repository.
