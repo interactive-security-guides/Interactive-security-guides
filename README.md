@@ -18,7 +18,7 @@ Interactive, visual security guides and demos covering architectures, concepts, 
 This is **independent educational content**. It is **not affiliated with or endorsed by any employer or vendor**.
 
 ## Repositories
-[PQC Education](https://github.com/interactive-security-guides/PQC-Education)
+[Post Quantum Computing Education](https://github.com/interactive-security-guides/PQC-Education)
 
 [Silent Intrustions Defense Lab](https://github.com/interactive-security-guides/Silent-Intrusion-Defense-Lab)
 
