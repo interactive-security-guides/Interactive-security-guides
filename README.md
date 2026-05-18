@@ -3,6 +3,11 @@
 
 Interactive, visual security guides and demos covering architectures, concepts, and emerging trends.
 
+## Repositories
+[Post Quantum Computing Education](https://github.com/interactive-security-guides/PQC-Education)
+
+[Silent Intrustions Defense Lab](https://github.com/interactive-security-guides/Silent-Intrusion-Defense-Lab)
+
 ## What you’ll find here 🔍
 - **Architecture Guides**: reference architectures and design patterns with diagrams and walkthroughs
 - **Interactive Demos**: click-through demos and small lab environments
@@ -16,11 +21,6 @@ Interactive, visual security guides and demos covering architectures, concepts, 
 
 ## Disclosure 🧐
 This is **independent educational content**. It is **not affiliated with or endorsed by any employer or vendor**.
-
-## Repositories
-[Post Quantum Computing Education](https://github.com/interactive-security-guides/PQC-Education)
-
-[Silent Intrustions Defense Lab](https://github.com/interactive-security-guides/Silent-Intrusion-Defense-Lab)
 
 ## License 🪪
 Unless otherwise noted, content is provided under the license specified in each repository.
