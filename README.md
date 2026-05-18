@@ -1,4 +1,4 @@
-# Interactive Security Guides 🫈
+# Interactive Security Guides
 
 
 Interactive, visual security guides and demos covering architectures, concepts, and emerging trends.
