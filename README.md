@@ -23,7 +23,7 @@ Interactive, visual security guides and demos covering architectures, concepts, 
 - **Vendor-neutral**: patterns and principles over product pitches
 
 ## Disclosure 🧐
-This is **independent educational content**. It is **not affiliated with or endorsed by any employer or vendor**.
+This is **independent educational content**. It is **not affiliated with or endorsed by any employer or vendor, unless noted**.
 
 ## License 🪪
 Unless otherwise noted, content is provided under the license specified in each repository.
